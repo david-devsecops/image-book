@@ -26,4 +26,4 @@
 
 표시는 실제 과정을 설명하는 수준으로 작성합니다. 사람이 그리지 않은 그림을 사람이 직접 그렸다고 하거나, 사람의 교열이 없었는데 최종 교열을 마쳤다고 쓰지 않습니다. OpenAI의 공개·출판 정책도 AI의 역할을 명확하게 설명하는 내용을 다룹니다. [공개·출판 정책](https://openai.com/policies/sharing-publication-policy/).
 
-[이전 페이지](090-glossary.md) · [전체 목차](../TOC.md) · [다음 페이지](092-sources.md)
+[이전 페이지](https://wikidocs.net/444376) · [전체 목차](https://wikidocs.net/book/21518) · [다음 페이지](https://wikidocs.net/444378)

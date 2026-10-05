@@ -34,7 +34,7 @@
 
 ## 표지 제작 요청
 
-아래는 표지 제작에 실제 사용한 영어 요청 원문입니다. 영어가 이미지 생성의 필수 조건이라는 뜻은 아닙니다. 처음에는 한국어로 장면을 설명하고, 번역이 필요할 때 의미가 유지되는지 확인하는 방법은 [Chapter 13](033-ch13.md)에서 다룹니다.
+아래는 표지 제작에 실제 사용한 영어 요청 원문입니다. 영어가 이미지 생성의 필수 조건이라는 뜻은 아닙니다. 처음에는 한국어로 장면을 설명하고, 번역이 필요할 때 의미가 유지되는지 확인하는 방법은 [Chapter 13](https://wikidocs.net/444330)에서 다룹니다.
 
 ```text
 Create a polished Korean technical nonfiction book cover as a FLAT RECTANGULAR PNG, exact portrait aspect ratio 100:130 (width:height), ideally 1600x2080. NOT a 3D book mockup. Title in very large, crisp, perfectly spelled Korean on upper two thirds: '처음 시작하는' then 'AI 이미지' then '프롬프트'. Small subtitle: '원하는 그림을 말로 설명하는 방법'. A sophisticated contemporary editorial design, warm ivory background, near-black Korean typography, cobalt blue and terracotta restrained accents. Bottom third shows a beautiful still life: simple cream ceramic mug, one small green leaf, and abstract framing lines suggesting composition and image creation. No company logos, no author name, no dates, no extra words, no watermarks. Spacious margins, very readable at thumbnail size. Text must be the dominant design element. This is an independently created cover for a beginner textbook.
@@ -48,4 +48,4 @@ Create a polished Korean technical nonfiction book cover as a FLAT RECTANGULAR P
 
 `layout.png`, `workflow-eight.png`, `review.png`는 직접 구성한 교육용 도식 세 장입니다. 생성 이미지 21장의 실행 횟수에는 포함하지 않습니다. 작업 흐름 도식은 본문의 여덟 단계와 같은 순서로 수정했습니다. 이전 여섯 단계 도식은 개정 전 자료에 보존했습니다.
 
-[이전 페이지](092-sources.md) · [전체 목차](../TOC.md) · [다음 페이지](094-publishing.md)
+[이전 페이지](https://wikidocs.net/444378) · [전체 목차](https://wikidocs.net/book/21518) · [다음 페이지](https://wikidocs.net/444380)

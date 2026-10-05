@@ -6,10 +6,10 @@
 
 이 판의 자료 확인과 예시 이미지 제작일은 2026년 10월 5일입니다. 생성·편집 결과 21장과 교육용 도식 3장을 수록했습니다. 모델 ID가 공개되지 않은 결과에는 미공개로 표시했습니다.
 
-[전체 목차](TOC.md)와 [첫 페이지](pages/000-start.md)에서 읽기를 시작하세요.
+[전체 목차](https://wikidocs.net/book/21518)와 [첫 페이지](https://wikidocs.net/444312)에서 읽기를 시작하세요.
 
 바로 실습하려면 [예제 프롬프트 모음](https://github.com/david-devsecops/image-book/tree/main/examples)에서 장별 프롬프트, 입력 이미지, 실제 결과와 관찰을 확인하세요.
 
-AI 활용 내역과 오류 제보 연락처는 [첫 페이지](pages/000-start.md)에 안내했습니다.
+AI 활용 내역과 오류 제보 연락처는 [첫 페이지](https://wikidocs.net/444312)에 안내했습니다.
 
 대상 저장소: [david-devsecops/image-book](https://github.com/david-devsecops/image-book)

@@ -8,6 +8,8 @@
 
 [전체 목차](TOC.md)와 [첫 페이지](pages/000-start.md)에서 읽기를 시작하세요.
 
+바로 실습하려면 [예제 프롬프트 모음](examples/README.md)에서 장별 프롬프트, 입력 이미지, 실제 결과와 관찰을 확인하세요.
+
 AI 관여 고지와 공개 연락처는 [첫 페이지](pages/000-start.md)의 저자 확인 항목에서 확정합니다.
 
 대상 저장소: [david-devsecops/image-book](https://github.com/david-devsecops/image-book)
